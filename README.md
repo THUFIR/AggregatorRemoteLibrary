@@ -1,0 +1,4 @@
+AggregatorRemoteLibrary
+=======================
+
+interface for EJB
