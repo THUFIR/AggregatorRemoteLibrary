@@ -1,4 +1,4 @@
 AggregatorRemoteLibrary
 =======================
 
-interface for EJB
+interface for EJB's
